@@ -67,7 +67,7 @@ function Contact() {
                 <Mail className="h-6 w-6 text-red-600 mr-4 mt-1" />
                 <div>
                   <h3 className="font-medium">Email</h3>
-                  <p className="text-gray-300">contact@FlimStar.com</p>
+                  <p className="text-gray-300">contact@Cinevia.com</p>
                 </div>
               </div>
 

@@ -107,7 +107,7 @@ function HeroSection({ movies }) {
       </div>
 
       {/* Content */}
-      <div className="relative h-full container mx-auto px-4 flex flex-col justify-center">
+      <div className="relative h-full container mx-auto lg:px-[3rem] lg:px-[3rem] px-4 flex flex-col justify-center">
         <div className="max-w-2xl">
           <h1 className="text-4xl md:text-6xl font-bold mb-4">
             {currentMovie.title}

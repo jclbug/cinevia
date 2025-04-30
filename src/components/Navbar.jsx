@@ -65,8 +65,6 @@ function Navbar() {
     >
       <div className="container mx-auto px-4 h-16 flex items-center justify-between">
         <Link to="/" className="flex items-center gap-2">
-          {/* <Film className="h-6 w-6 text-red-600" /> */}
-          {/* <span className="font-bold text-xl">FlimStar</span> */}
           <img src="logo.png" alt="website logo" className="w-[270px]" />
         </Link>
 

@@ -8,7 +8,7 @@ function Privacy() {
   const policies = [
     {
       title: "1. Information We Collect",
-      text: `FlimStar may collect certain information about your visit, such as your browser type, IP address, and the pages you visit. We may also collect information you voluntarily provide, such as when you create an account or contact us.`,
+      text: `Cinevia may collect certain information about your visit, such as your browser type, IP address, and the pages you visit. We may also collect information you voluntarily provide, such as when you create an account or contact us.`,
     },
     {
       title: "2. How We Use Your Information",
@@ -16,11 +16,11 @@ function Privacy() {
     },
     {
       title: "3. Cookies and Similar Technologies",
-      text: `FlimStar uses cookies and similar technologies to enhance your experience on our website. You can set your browser to refuse all or some browser cookies, but this may affect your ability to use certain features of our service.`,
+      text: `Cinevia uses cookies and similar technologies to enhance your experience on our website. You can set your browser to refuse all or some browser cookies, but this may affect your ability to use certain features of our service.`,
     },
     {
       title: "4. Third-Party Services",
-      text: `We may use third-party services, such as analytics providers and content delivery networks, to help us provide and improve our service. These third parties may collect information about your use of FlimStar.`,
+      text: `We may use third-party services, such as analytics providers and content delivery networks, to help us provide and improve our service. These third parties may collect information about your use of Cinevia.`,
     },
     {
       title: "5. Data Security",
@@ -28,7 +28,7 @@ function Privacy() {
     },
     {
       title: "6. Children's Privacy",
-      text: `FlimStar is not intended for children under 13 years of age. We do not knowingly collect personal information from children under 13.`,
+      text: `Cinevia is not intended for children under 13 years of age. We do not knowingly collect personal information from children under 13.`,
     },
     {
       title: "7. Changes to This Privacy Policy",
@@ -36,7 +36,7 @@ function Privacy() {
     },
     {
       title: "8. Contact Us",
-      text: `If you have any questions about this Privacy Policy, please contact us at privacy@FlimStar.com.`,
+      text: `If you have any questions about this Privacy Policy, please contact us at privacy@Cinevia.com.`,
     },
   ];
 
